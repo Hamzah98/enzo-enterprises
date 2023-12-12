@@ -27,7 +27,18 @@ nav {
         height: 32px;
     }
 }
-
+footer{
+    background-color:black;
+    height:200px;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    
+}
+footer p,footer a{
+    font-size:24px;
+    color:rgba(245, 245, 245, 0.846)
+}
 .navbar-links a {
     text-decoration: none;
     margin-left: 20px;
